@@ -1,6 +1,6 @@
 {
 	"name": "@nevilledgr8/star-pack",
-	"version": "1.1.0",
+	"version": "1.2.0-beta.0",
 	"description": "Get some random star names, this is majorly for practice purposes",
 	"main": "src/index.js",
 	"scripts": {
