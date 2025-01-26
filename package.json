@@ -1,19 +1,20 @@
 {
-  "name": "star-pack",
-  "version": "1.0.0",
-  "description": "Get some random star names, this is majorly for practice purposes",
-  "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "random",
-    "starnames",
-    "test"
-  ],
-  "author": "Neville Kati",
-  "license": "MIT",
-  "dependencies": {
-    "unique-random-array": "4.0.0"
-  }
+	"name": "@nevilledgr8/star-pack",
+	"version": "1.1.0",
+	"description": "Get some random star names, this is majorly for practice purposes",
+	"main": "src/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"random",
+		"starnames",
+		"test"
+	],
+	"author": "Neville Kati",
+	"license": "MIT",
+	"dependencies": {
+		"@nevilledgr8/star-pack": "1.0.0",
+		"unique-random-array": "4.0.0"
+	}
 }
